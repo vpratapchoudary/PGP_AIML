@@ -1,3 +1,35 @@
 # ide
 .idea
 .vscode
+
+# Python cache
+__pycache__
+*.py[cod]
+
+# Python virtual environments
+.env
+.venv
+
+# Python distribution files
+*.egg-info
+dist
+build
+.eggs   
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Coverage reports
+.coverage
+*.cover
+
+# Test results
+nosetests.xml
+test-results.xml
+junit.xml
+
+# Pytest cache
+.pytest_cache/
